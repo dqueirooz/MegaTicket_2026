@@ -1,0 +1,1 @@
+Lógica para processamento de pagamentos e validação de ingressos

@@ -1,0 +1,1 @@
+protótipo da interface que o cliente usará para comprar os tickets
